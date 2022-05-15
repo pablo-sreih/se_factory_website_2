@@ -90,3 +90,80 @@
     font-size: 1.1em;
     font-weight: 600;
 }
+
+.section-1 .sub{
+    margin-top: 2%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 3em;
+    color: #0d0;
+    font-weight: 800;
+}
+
+.section-2 .sub{
+    margin-top: 2%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.5em;
+    color: black;
+    font-weight: 800;
+}
+
+.section-3{
+    justify-content: center;
+    margin-top: 15%;
+}
+
+.section-3 img{
+    margin-left:5%;
+    width: 500px;
+}
+
+.section-3 .col :nth-child(1){
+    margin-left: 5%;
+    font-size: 2.8em;
+}
+
+.section-3 .col :nth-child(2){
+    margin-top: -4%;
+    font-size: 1em;
+}
+
+.section-3 .col :nth-child(3){
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-bottom: 4%;
+    font-size: 1.5em;
+    line-height: 30px
+}
+
+.section-3 .col a{
+    text-decoration: none;
+    margin-left: 10%;
+    font-size: 1.4em;
+    color: #0d0;
+    border-bottom: 1px solid #0d0;
+    padding-bottom: 1%;
+}
+
+.section-4{
+    background-color: #0d0;
+    margin-top: 5%;
+}
+
+.section-4 .sub-1 :nth-child(1){
+    text-align: center;
+    padding-top: 3%;
+    color: white;
+    font-size: 3em;
+}
+
+.section-4 .sub-1 :nth-child(2){
+    text-align: center;
+    margin-top: -1%;
+    margin-bottom: 2%;
+}
+
+.section-4 .sub-2{
+    justify-content: center;
+}
